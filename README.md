@@ -28,7 +28,7 @@ git clone https://github.com/sufyanism/Sticky-Notes-in-Flutter.git
 
 ## 2. Navigate into the project directory:
 ```sh
-`cd Sticky-Notes-in-Flutter`
+cd Sticky-Notes-in-Flutter
 ```
 
 ## 3. Install dependencies:
