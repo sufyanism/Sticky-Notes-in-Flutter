@@ -13,7 +13,7 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 </br>
 
 ## Demo
-
+https://github.com/user-attachments/assets/99910e17-6634-4a07-b042-2c016d1e955e
 
 </br>
 
