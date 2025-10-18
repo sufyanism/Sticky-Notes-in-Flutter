@@ -28,17 +28,17 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 
 ### Installation
 
-## Clone the repository:
+## 1. Clone the repository:
 ```sh
 git clone https://github.com/sufyanism/Sticky-Notes-in-Flutter.git
 ```
 
-## Navigate into the project directory:
+## 2. Navigate into the project directory:
 ```sh
 `cd Sticky-Notes-in-Flutter`
 ```
 
-## Install dependencies:
+## 3. Install dependencies:
 ```sh
 flutter pub get
 ```
