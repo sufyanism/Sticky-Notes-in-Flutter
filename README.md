@@ -41,9 +41,7 @@ git clone https://github.com/sufyanism/Sticky-Notes-in-Flutter.git
 flutter pub get
 ```
 
-</br>
-
-## Running the App
+## 4. Running the App
 To run on an emulator or connected device:
 flutter run
 
