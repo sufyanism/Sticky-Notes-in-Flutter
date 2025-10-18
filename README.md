@@ -17,7 +17,7 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 
 </br>
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - Flutter SDK (version 3.0+ recommended)
@@ -29,7 +29,9 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 ### Installation
 
 ## Clone the repository:
+```sh
 `git clone https://github.com/sufyanism/Sticky-Notes-in-Flutter.git`
+```
 
 ## Navigate into the project directory:
 `cd Sticky-Notes-in-Flutter`
