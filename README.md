@@ -3,7 +3,7 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 
 </br>
 
-## Features
+## ✨ Features
 - Create, edit, and delete notes
 - Save notes locally on your device
 - Intuitive and responsive UI
@@ -18,8 +18,6 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 </br>
 
 ## 🚀 Getting Started
-
-### Prerequisites
 - Flutter SDK (version 3.0+ recommended)
 - Dart SDK
 - An IDE like Android Studio, VS Code, or any preferred editor
