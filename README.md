@@ -12,11 +12,6 @@ A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage y
 
 </br>
 
-## Demo
-https://github.com/user-attachments/assets/99910e17-6634-4a07-b042-2c016d1e955e
-
-</br>
-
 ## 🚀 Getting Started
 - Flutter SDK (version 3.0+ recommended)
 - Dart SDK
@@ -44,6 +39,11 @@ flutter pub get
 ## 4. Running the App
 To run on an emulator or connected device:
 flutter run
+
+</br>
+
+## Demo
+https://github.com/user-attachments/assets/e6b77a08-f74f-4e1d-ba8a-63d92f794cc3
 
 </br>
 
