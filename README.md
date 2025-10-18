@@ -1,4 +1,4 @@
-# Sticky Notes in Flutter
+# Sticky Notes in Flutter 📝
 A simple, elegant, and easy-to-use sticky notes app built with Flutter. Manage your notes efficiently with a clean interface and smooth interactions.
 
 </br>
